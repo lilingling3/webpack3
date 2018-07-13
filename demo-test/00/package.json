@@ -1,0 +1,11 @@
+{
+  "name": "00",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "json-server": "json-server data.json"
+  },
+  "author": "",
+  "license": "ISC"
+}
